@@ -11,9 +11,9 @@ Et du coup, je me suis retrouvé un lundi matin, parmi l'équipe. Le défi, cré
 
 Natural Pad, c'est la glorification de l'équipe, s'il y a un défi à relever, ils se serrent les coudes, et sortent les best practices du développement agile. Je n'ai pas l'habitude de ce fonctionnement, en général, je travaille dans l'ombre, dans quelques rares cas avec un fidèle allié à mes cotés. Donc à six sur ce projet, et avec une technologie qui m'était étrangère, j'ai eu droit à un stage en immersion totale.
 
-Six personnes sur un seul projet de jam, je pense pouvoir dire avec certitude maintenant que ça fait un peu beaucoup, il y a eu beaucoup de travail déstructif, des canaux de communication encombrés, et une certaine difficulté pour se former la même idée afin d'avance ensemble dans la même direction.
+Six personnes sur un seul projet de jam, je pense pouvoir dire avec certitude maintenant que ça fait un peu beaucoup, il y a eu beaucoup de travail déstructif, des canaux de communication encombrés, et une certaine difficulté pour se former la même idée afin d'avancer ensemble dans la même direction.
 
-Au milieu de la semaine, donc, je me suis retrouvé à ne pas trop savoir quoi faie sur le projet. J'ai donc pris l'initiative d'enseigner la création de jeux au collégien qui faisait son stage de quatrième. Un jam dans un jam en quelques sortes. Ici, je suis retourné à une technologie qui m'est plus familière, Löve2D [love2d.org][1].
+Au milieu de la semaine, donc, je me suis retrouvé à ne pas trop savoir quoi faire sur le projet. J'ai donc pris l'initiative d'enseigner la création de jeux au collégien qui faisait son stage de quatrième. Un jam dans un jam en quelques sortes. Ici, je suis retourné à une technologie qui m'est plus familière, Löve2D [love2d.org][1].
 
 En deux après-midis, un petit jeune de quatorze ans a donc créé son tout premier jeu, appris les bases de la programmation, et révisé la quasi-totalité de son programme de géométrie, et même les bases de la géométrie niveau seconde.
 
